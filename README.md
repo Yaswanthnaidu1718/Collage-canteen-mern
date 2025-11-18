@@ -198,5 +198,5 @@ Multi-admin access with role hierarchy
 
 👨‍💻 Author
 
-Yaswanth Nai
+Yaswanth Naidu
 📌 MERN Developer | Problem Solver | Open Source Contributor
